@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Final Report"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "IPE"
+	}
+}
