@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../numpy"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../06"
+		}
+	],
+	"settings": {}
+}
